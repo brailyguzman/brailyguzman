@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Braily, a Full-Stack Developer and High School student from New York City.
+I'm Braily, a Developer from New York City.
 
 ## 🛠️ Toolkit
 - **Editors:** VS Code, Neovim
