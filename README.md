@@ -1,20 +1,8 @@
-# Hello, World! 👋
+# Hey there! 👋
 
-I'm Braily, a Developer from New York City.
-
-## 🛠️ Toolkit
-- **Editors:** VS Code, Neovim
-- **Languages:** TypeScript, JavaScript, Python
-- **Frontend:** HTML, CSS, SCSS, React.js
-- **Backend:** Node.js
-- **Tools/Platforms:** Docker, AWS, WordPress, Git, GitHub
-
-## 📚 Learning
-- Rust, Lua, Docker 
-
-## 🎮 Hobbies
-- Exercising, Gaming, Aviation
+I'm Braily Guzman, a Full-stack Developer from New York City.
 
 ## 📫 Contact
+Feel free to connect with me
 - brailyg@outlook.com
 - https://linkedin.com/in/brailyguzman
