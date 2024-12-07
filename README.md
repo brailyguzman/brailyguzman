@@ -6,6 +6,9 @@ I'm a **Full-stack Software Engineer** with a focus on building impactful applic
 
 Feel free to check out my [portfolio](braily.dev)!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📫 Contact
 📧 Email: brailydev@gmail.com
 
