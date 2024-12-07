@@ -6,6 +6,8 @@ I'm a **Full-stack Software Engineer** with a passion for building impactful and
 
 Feel free to explore my projects and check out my [portfolio](https://braily.dev)!
 
+
+## My Recent Activity
 <!--START_SECTION:waka-->
 
 ```txt
