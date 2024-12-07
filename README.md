@@ -1,8 +1,12 @@
-# Hey there! 👋
+# 👋 Hi, I’m Braily Guzman
+[![wakatime](https://wakatime.com/badge/user/78b9a827-5162-4c58-9330-4ea970cf6de4.svg)](https://wakatime.com/@78b9a827-5162-4c58-9330-4ea970cf6de4)
+![](https://komarev.com/ghpvc/?username=brailyguzman)
 
-I'm Braily Guzman, a Full-stack Developer from New York City.
+I'm a **Full-stack Software Engineer** with a focus on building impactful applications.
+
+Feel free to check out my [portfolio](braily.dev)!
 
 ## 📫 Contact
-Feel free to connect with me
-- brailyg@outlook.com
-- https://linkedin.com/in/brailyguzman
+📧 Email: brailydev@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/brailyguzman
