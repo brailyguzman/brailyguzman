@@ -11,11 +11,11 @@ Feel free to explore my projects and check out my [portfolio](https://braily.dev
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.52 %
-JavaScript   4 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.26 %
-JSON         1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-TOML         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Bash         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+TypeScript   5 hrs 6 mins    █████████▓░░░░░░░░░░░░░░░   39.12 %
+JavaScript   4 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   31.88 %
+JSON         1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Bash         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+CSS          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->
