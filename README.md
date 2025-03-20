@@ -11,7 +11,7 @@ Feel free to explore my projects and check out my [portfolio](https://braily.dev
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   19 mins         █████████████████████████   100.00 %
+Markdown   33 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
