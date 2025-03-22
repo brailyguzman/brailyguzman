@@ -11,9 +11,11 @@ Feel free to explore my projects and check out my [portfolio](https://braily.dev
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     45 mins         █████████████████▓░░░░░░░   71.02 %
-CSS          16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+JavaScript   1 hr 47 mins    ██████████████░░░░░░░░░░░   55.47 %
+CSS          38 mins         █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+Markdown     28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+YAML         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
